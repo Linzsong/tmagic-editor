@@ -1,0 +1,2 @@
+import{_ as n}from"./Container.vue_vue_type_script_setup_true_lang-BzIFxqEK.js";import{u as c}from"./useApp-khRuD069.js";import"./index-CIiC1sYe.js";const s=Vue.defineComponent({__name:"PageFragment",props:{config:{},model:{default:()=>({})}},setup(e){return c({config:e.config,methods:{}}),(o,a)=>(Vue.openBlock(),Vue.createBlock(Vue.unref(n),{class:"magic-ui-page-fragment",config:o.config},null,8,["config"]))}});export{s as default};
+//# sourceMappingURL=PageFragment-C_2oSf7w.js.map
